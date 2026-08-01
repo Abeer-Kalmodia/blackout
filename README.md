@@ -1,4 +1,4 @@
-# VOID
+# Blackout
 
 > See Less. Save More.
 
